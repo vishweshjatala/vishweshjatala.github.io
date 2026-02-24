@@ -10,7 +10,7 @@ author_profile: true
     2. Program Committee, [ICFEC 2025](https://icfec2025.ontariotechu.ca/)  
     3. Reviewer, [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)  
     4. SRS Co-Chair, [HiPC 2025](https://hipc.org/organizing_committee/)  
-    5. Program Committee, [SCI 2025] (https://sci25.supercomputingindia.org/)  
+    5. Program Committee, [SCI 2025](https://sci25.supercomputingindia.org/)  
 * **2024**  
     1. Program Committee, [HiPC 2024](https://hipc.org/programcomittee/)  
     2. Poster Co-Chair, [HiPC 2024](https://hipc.org/organizing_committee/)  
