@@ -11,9 +11,14 @@ author_profile: true
 * Digital Transformation System For Pre-Failure Alert Generation For Equipment Failture & Cobble Reduction Based on Data Analytics And Video Analytics at BRM . Project Fund: 2.99 Crore, Bhilai Steel Plant, 2023-25. \[As a CO-PI\]
 
 ## Publications
-
-* **Multivariate Time Series Data Mining for Failure Prediction & Root Cause Analysis**, Naman Agarwal, Gagan Raj Gupta,  **Vishwesh Jatala**, Aniket Saha, IEEE International Conference on Acoustics, Speech, and Signal Processing **(ICASSP)**, 2025  
-* **A Cluster-Based Sampler for Fast GNN**, Surendra Kumar Raut, Kishan Tamboli,  **Vishwesh Jatala** at Student Research Symposium, 31st IEEE International Conference on High Performance Computing, Data, and Analytics **(HiPC)**, 2024.  
+* **A Cluster-Based Sampling Scheme for High-Performance Graph Neural Networks**,, Surendra Kumar Raut, Kishan Tamboli, **Vishwesh Jatala**, IEEE International Symposium on Performance Analysis of Systems and Software **(ISPASS)**, 2026  
+* **LSTC: Large-Scale Triangle Counting on Single GPU**,, Kishan Tamboli, **Vishwesh Jatala**, ACM/SPEC International Conference on Performance Engineering **(ICPE)**, 2026  
+GPU-Accelerated Time Series Anomaly Detection using Matrix Profile**,, Raviteja Nandam, **Vishwesh Jatala**, International Conference on Data Science **(IKDD CODS)**, 2025  
+* **Multivariate Time Series Data Mining for Failure Prediction & Root Cause Analysis**, Naman Agarwal, Gagan Raj Gupta,  **Vishwesh Jatala**, Aniket Saha, IEEE International Conference on Acoustics, Speech, and Signal Processing **(ICASSP)**, 2025   
+* **Graph Coarsening for High-Performance GNN**, Niharika Nayak, Kishan Tamboli, **Vishwesh Jatala** at Student Research Symposium, 32nd IEEE International Conference on High Performance Computing, Data, and Analytics **(HiPC)**, 2025. [Best SRS Poster Award]  
+* **Edge Pruning Methods for Distributed GNN**, Shrashank Maravi, Surendra Kumar Raut, Kishan Tamboli, **Vishwesh Jatala** at Student Research Symposium, 32nd IEEE International Conference on High Performance Computing, Data, and Analytics **(HiPC)**, 2025.  
+* **CentGNN: A Centrality-Driven Scheme for High-Performance Graph Neural Networks**, Surendra Kumar Raut, Kishan Tamboli, **Vishwesh Jatala** at Student Research Symposium, 32nd IEEE International Conference on High Performance Computing, Data, and Analytics **(HiPC)**, 2025.  
+* **A Cluster-Based Sampler for Fast GNN**, Surendra Kumar Raut, Kishan Tamboli,  **Vishwesh Jatala** at Student Research Symposium, 31st IEEE International Conference on High Performance Computing, Data, and Analytics **(HiPC)**, 2024.    
 * **Accelerated Multilevel Graph Partitioning on GPUs**, Amitesh Singh, Bhakti Dhorajiya,  **Vishwesh Jatala** at Student Research Symposium, 31st IEEE International Conference on High Performance Computing, Data, and Analytics **(HiPC)**, 2024.  
 * **A Partitioning Scheme for Large Scale Clique Counting on Single GPU**, Vinayak Kesarwani, Shivangi Gaur, Sudeep Ranjan Sahoo, Kishan Tamboli,  **Vishwesh Jatala** at Student Research Symposium, 31st IEEE International Conference on High Performance Computing, Data, and Analytics **(HiPC)**, 2024.  
 * **Distributed Graph Neural Networks**, Dhruv Deshmukh, Gagan Gupta, and **Vishwesh Jatala**, Tutorial Track, Joint International Conference on Data Sciences and Management of Data **(CODS-COMAD)**, 2024  
