@@ -4,7 +4,10 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-* High Performance Distributed Graph Neural Networks, NSM HPC Research Week, IIT Madras, November 2023
+* Invited talk on "Pre-failure alert generation for equipment & cobble reduction based on data analytics and video analytics at BRM" as a Distinguished Speaker at the Workshop on Digital Initiatives for Increasing Transparency in Governance, 2026  
+* HPC Technologies for AI/ML, FDP on The Role of Data Science in Computational Mathematics & Statistics, 2025  
+* HPC Technologies for AI/ML, ATAL FDP, 2024  
+* High Performance Distributed Graph Neural Networks, NSM HPC Research Week, IIT Madras, November 2023  
 * Graphics Processing Units, Guest Lecture, G. H. Raisoni College of Engineering, 2022
 * Graph Processing on GPUs, [HiPC Programming Contest GPU Track](https://hipc.org/hipc-training/#gpu-training), 2021  
 * Introduction to GPUs, CUDA Programming, Optimizations, and Research Directions, Computer Architecture Winter School ([CAWS 2020](https://www.chips.pes.edu/caws2020)), 2020  
