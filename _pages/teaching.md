@@ -9,6 +9,7 @@ author_profile: true
 * CSL302: Compiler Design
 * CS519: High Performance Computer Architecture 
 * CS251: Introduction to Language Processing 
+* CSL100/MAL400: Introduction to Programming  
 * CS501: Computer Systems  
 * CSP203: Software Tools & Technolgies Lab 
 * CSL503: Computer Systems Engineering  [Jointly with Prof. Santosh Biswas] 

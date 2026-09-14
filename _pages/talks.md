@@ -4,6 +4,8 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+* Invited Speaker at the Workshop on Software Framework (AMReX) & Computational Mathematics for Scalability of Applications, 7-8 September 2026, C-DAC, Pune (Online)  
+* Invited talk on "High Performance Distributed Graph Neural Networks" at the 8th Indian Symposium on Computer Systems (IndoSys), Delhi, 2026  
 * Invited talk on "Pre-failure alert generation for equipment & cobble reduction based on data analytics and video analytics at BRM" as a Distinguished Speaker at the Workshop on Digital Initiatives for Increasing Transparency in Governance, 2026  
 * HPC Technologies for AI/ML, FDP on The Role of Data Science in Computational Mathematics & Statistics, 2025  
 * HPC Technologies for AI/ML, ATAL FDP, 2024  
