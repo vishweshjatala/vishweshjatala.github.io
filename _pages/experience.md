@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 * **2025**  
-	1. Program Committee, [ISEC, 2027] (https://conf.researchr.org/committee/isec-2027/isec-2027-research-papers-program-committee-)
+	1. Program Committee, [ISEC 2027](https://conf.researchr.org/committee/isec-2027/isec-2027-research-papers-program-committee-)
 * **2025**  
-	1. Workshop Co-Chair, [HiPC 2026] (https://hipc.org/organizing-committee/)
-	2. Workshop Committee Member, [AI on HPC at ISC High Performance 2026] (https://isc-hpc.com/)
+	1. Workshop Co-Chair, [HiPC 2026](https://hipc.org/organizing-committee/)
+	2. Workshop Committee Member, [AI on HPC at ISC High Performance 2026](https://isc-hpc.com/)
 * **2025**  
     1. Program Committee, [HiPC 2025](https://hipc.org/programcomittee/)  
     2. Program Committee, [ICFEC 2025](https://icfec2025.ontariotechu.ca/)  
